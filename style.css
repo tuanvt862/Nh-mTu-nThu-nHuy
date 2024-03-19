@@ -1,0 +1,15 @@
+.header{
+    text-align: right;
+}
+.right{
+    margin-top: 15px;
+    text-align: center;
+
+}
+.center{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.right div:not(:last-child) {
+    margin-bottom: 15px;
+}
